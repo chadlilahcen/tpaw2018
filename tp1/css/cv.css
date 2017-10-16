@@ -1,0 +1,23 @@
+h1{
+color:#7FFFD4;
+}
+
+#mail{
+
+color:#FFA500;
+
+}
+
+img{
+  vertical-align: middle;
+  width: 80px;
+}
+/* On travaille sur la balise body, donc sur TOUTE la page */
+
+body
+
+{
+
+    background-color: gray; /* Le fond de la page sera noir */
+
+  }
